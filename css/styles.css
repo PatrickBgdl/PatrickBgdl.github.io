@@ -57,8 +57,8 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
-  background-color: #fff;
+  color: #000000;
+  background-color: #6C3483;
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #6C3483;
   text-decoration: underline;
 }
 a:hover {
-  color: #50817e;
+  color: #6C3483;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
